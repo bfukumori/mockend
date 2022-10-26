@@ -40,10 +40,12 @@
     "available": {
       "boolean": {}
     },
-    "image": [
-      "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    ]
+    "image": {
+      "string": [
+        "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+        "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+        "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      ]
+    }
   }
 }
