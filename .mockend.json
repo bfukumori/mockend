@@ -25,5 +25,25 @@
         "max": "2022-08-14T01:53:45.174Z"
       }
     }
+  },
+  "Food": {
+    "name": {
+      "string": ["Ao molho", "Veggie", "A la Camarón"]
+    },
+    "description": {},
+    "price": {
+      "int": {
+        "min": 0,
+        "max": 100
+      }
+    },
+    "available": {
+      "boolean": {}
+    },
+    "image": [
+      "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    ]
   }
 }
